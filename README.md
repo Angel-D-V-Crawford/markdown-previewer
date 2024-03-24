@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-Made with React. The markdown previewer updates on realtime while writing.
+Made with React. The markdown previewer updates on realtime while writing.<br/>
 Project from the freecodecamp's Front End Development Libraries Certification
 
 ## Screenshot
